@@ -1,0 +1,6 @@
+OS = "Ubuntu 26.04.1 LTS"
+REDMINE_VERSION = "6.1.5"
+DATABASE = "PostgreSQL 18.6"
+WEB_SERVER = "Puma 8.0.2"
+SERVICE = "redmine-lab"
+THEME = "lab_cinema"
