@@ -11,3 +11,9 @@ Redmine 6.1.5 установлен вручную в Ubuntu на VirtualBox.
 
 Описание конфигурации: [docs/environment.md](docs/environment.md).
 Условный исходный файл: [src/environment.py](src/environment.py).
+
+## Управление проектом
+
+Руководитель проекта — Усенков С.Д.
+Описание проекта: [docs/project.md](docs/project.md).
+Учебный исходный файл: [src/project.py](src/project.py).
